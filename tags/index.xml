@@ -6,46 +6,9 @@
     <description>Recent content in Tags on Hi, I&#39;m Tiago Gonçalves 👋</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 02 Apr 2014 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://tiagogoncalv.es/tags/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>development</title>
-      <link>http://tiagogoncalv.es/tags/development/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>http://tiagogoncalv.es/tags/development/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>go</title>
-      <link>http://tiagogoncalv.es/tags/go/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>http://tiagogoncalv.es/tags/go/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>golang</title>
-      <link>http://tiagogoncalv.es/tags/golang/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>http://tiagogoncalv.es/tags/golang/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>hugo</title>
-      <link>http://tiagogoncalv.es/tags/hugo/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>http://tiagogoncalv.es/tags/hugo/</guid>
-      <description></description>
-    </item>
     
   </channel>
 </rss>
